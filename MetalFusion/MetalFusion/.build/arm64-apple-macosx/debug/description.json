@@ -1,0 +1,1208 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierFragment_alphaCutoff.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/GLTFShaderModifierFragment_alphaCutoff.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierFragment_alphaCutoff.shader"
+        }
+      ]
+    },
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierFragment_VRMUnlitTexture_Cutoff.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/VRM/GLTFShaderModifierFragment_VRMUnlitTexture_Cutoff.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierFragment_VRMUnlitTexture_Cutoff.shader"
+        }
+      ]
+    },
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierFragment_VRMUnlitTexture.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/VRM/GLTFShaderModifierFragment_VRMUnlitTexture.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierFragment_VRMUnlitTexture.shader"
+        }
+      ]
+    },
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_alphaModeBlend.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/GLTFShaderModifierSurface_alphaModeBlend.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_alphaModeBlend.shader"
+        }
+      ]
+    },
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_doubleSidedWorkaround.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/GLTFShaderModifierSurface_doubleSidedWorkaround.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_doubleSidedWorkaround.shader"
+        }
+      ]
+    },
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_pbrSpecularGlossiness_doubleSidedWorkaround.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/KHR_materials_pbrSpecularGlossiness/GLTFShaderModifierSurface_pbrSpecularGlossiness_doubleSidedWorkaround.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_pbrSpecularGlossiness_doubleSidedWorkaround.shader"
+        }
+      ]
+    },
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_pbrSpecularGlossiness_texture_doubleSidedWorkaround.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/KHR_materials_pbrSpecularGlossiness/GLTFShaderModifierSurface_pbrSpecularGlossiness_texture_doubleSidedWorkaround.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_pbrSpecularGlossiness_texture_doubleSidedWorkaround.shader"
+        }
+      ]
+    },
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_pbrSpecularGlossiness.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/KHR_materials_pbrSpecularGlossiness/GLTFShaderModifierSurface_pbrSpecularGlossiness.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_pbrSpecularGlossiness.shader"
+        }
+      ]
+    },
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_VRMMToon.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/VRM/GLTFShaderModifierSurface_VRMMToon.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface_VRMMToon.shader"
+        }
+      ]
+    },
+    "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface.shader" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/Resources/GLTFShaderModifierSurface.shader"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit_GLTFSceneKit.bundle/GLTFShaderModifierSurface.shader"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.DisplayLink-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/DisplayLink/Sources/DisplayLink/DisplayLink.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/DisplayLink/Sources/DisplayLink/OnFrame.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "DisplayLink",
+      "moduleOutputPath" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.swiftmodule",
+      "objects" : [
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.build/DisplayLink.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.build/OnFrame.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.15",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.build/DisplayLink-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-suppress-warnings"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.build/DisplayLink.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.build/OnFrame.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/DisplayLink/Sources/DisplayLink/DisplayLink.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/DisplayLink/Sources/DisplayLink/OnFrame.swift"
+      ],
+      "tempsPath" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.GLTFSceneKit-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFErrors.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFFunctions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFSceneKit+BundleFinder.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFSceneSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFTypes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFUnarchiver.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessorSparse.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessorSparseIndices.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessorSparseValues.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimationChannel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimationChannelTarget.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimationSampler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAsset.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFBuffer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFBufferView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFCamera.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFCameraOrthographic.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFCameraPerspective.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFExtension.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFExtras.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFExtrasTargetNames.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTF.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTFChildOfRootProperty.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTFProperty.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTFid.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFImage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterial.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterialNormalTextureInfo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterialOcclusionTextureInfo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterialPbrMetallicRoughness.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMesh.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMeshPrimitive.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFNode.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFSampler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFScene.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFSkin.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFTexture.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFTextureInfo.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/ExtensionList.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRM.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMSpringBone.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMSpringBoneLogic.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMTypes.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<GLTFSceneKit-debug.module-resources>"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "GLTFSceneKit",
+      "moduleOutputPath" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.swiftmodule",
+      "objects" : [
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFErrors.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFFunctions.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneKit+BundleFinder.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneSource.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFTypes.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFUnarchiver.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAccessor.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAccessorSparse.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAccessorSparseIndices.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAccessorSparseValues.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAnimation.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAnimationChannel.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAnimationChannelTarget.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAnimationSampler.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAsset.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFBuffer.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFBufferView.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFCamera.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFCameraOrthographic.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFCameraPerspective.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFExtension.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFExtras.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFExtrasTargetNames.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFGlTF.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFGlTFChildOfRootProperty.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFGlTFProperty.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFGlTFid.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFImage.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMaterial.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMaterialNormalTextureInfo.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMaterialOcclusionTextureInfo.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMaterialPbrMetallicRoughness.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMesh.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMeshPrimitive.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFNode.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFSampler.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFScene.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFSkin.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFTexture.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFTextureInfo.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/ExtensionList.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRM.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRMSpringBone.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRMSpringBoneLogic.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRMState.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRMTypes.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneKit-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-suppress-warnings"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFErrors.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFFunctions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneKit+BundleFinder.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneSource.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFTypes.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFUnarchiver.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAccessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAccessorSparse.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAccessorSparseIndices.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAccessorSparseValues.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAnimation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAnimationChannel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAnimationChannelTarget.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAnimationSampler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFAsset.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFBuffer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFBufferView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFCamera.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFCameraOrthographic.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFCameraPerspective.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFExtension.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFExtras.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFExtrasTargetNames.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFGlTF.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFGlTFChildOfRootProperty.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFGlTFProperty.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFGlTFid.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFImage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMaterial.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMaterialNormalTextureInfo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMaterialOcclusionTextureInfo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMaterialPbrMetallicRoughness.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMesh.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFMeshPrimitive.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFNode.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFSampler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFScene.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFSkin.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFTexture.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/GLTFTextureInfo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/ExtensionList.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRM.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRMSpringBone.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRMSpringBoneLogic.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRMState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/schema/extensions/VRM/GLTFVRM_VRMTypes.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFErrors.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFFunctions.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFSceneKit+BundleFinder.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFSceneSource.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFTypes.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFUnarchiver.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessor.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessorSparse.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessorSparseIndices.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessorSparseValues.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimation.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimationChannel.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimationChannelTarget.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimationSampler.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAsset.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFBuffer.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFBufferView.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFCamera.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFCameraOrthographic.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFCameraPerspective.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFExtension.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFExtras.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFExtrasTargetNames.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTF.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTFChildOfRootProperty.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTFProperty.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTFid.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFImage.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterial.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterialNormalTextureInfo.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterialOcclusionTextureInfo.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterialPbrMetallicRoughness.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMesh.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMeshPrimitive.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFNode.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFSampler.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFScene.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFSkin.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFTexture.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFTextureInfo.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/ExtensionList.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRM.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMSpringBone.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMSpringBoneLogic.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMState.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMTypes.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.Model3DView-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Camera/CameraControls.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Camera/Cameras.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/EnvironmentValues.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Model3DView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Transform3D.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Types.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Utils/Euler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Utils/Math.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Utils/ResourcesCache.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/View+Modifiers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Model3DView",
+      "moduleOutputPath" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.swiftmodule",
+      "objects" : [
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Camera/CameraControls.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Camera/Cameras.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/EnvironmentValues.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Model3DView.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Transform3D.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Types.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Utils/Euler.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Utils/Math.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Utils/ResourcesCache.swift.o",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/View+Modifiers.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx11.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Model3DView-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-suppress-warnings"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Camera/CameraControls.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Camera/Cameras.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/EnvironmentValues.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Model3DView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Transform3D.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Types.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Utils/Euler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Utils/Math.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Utils/ResourcesCache.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/View+Modifiers.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Camera/CameraControls.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Camera/Cameras.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/EnvironmentValues.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Model3DView.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Transform3D.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Types.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Utils/Euler.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Utils/Math.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Utils/ResourcesCache.swift",
+        "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/View+Modifiers.swift"
+      ],
+      "tempsPath" : "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "DisplayLink" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "DisplayLink",
+      "-incremental",
+      "-c",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/DisplayLink/Sources/DisplayLink/DisplayLink.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/DisplayLink/Sources/DisplayLink/OnFrame.swift",
+      "-I",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.15",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.build/DisplayLink-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "GLTFSceneKit" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "GLTFSceneKit",
+      "-incremental",
+      "-c",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFErrors.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFFunctions.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFSceneKit+BundleFinder.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFSceneSource.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFTypes.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/GLTFUnarchiver.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessor.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessorSparse.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessorSparseIndices.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAccessorSparseValues.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimation.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimationChannel.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimationChannelTarget.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAnimationSampler.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFAsset.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFBuffer.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFBufferView.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFCamera.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFCameraOrthographic.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFCameraPerspective.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFExtension.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFExtras.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFExtrasTargetNames.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTF.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTFChildOfRootProperty.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTFProperty.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFGlTFid.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFImage.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterial.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterialNormalTextureInfo.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterialOcclusionTextureInfo.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMaterialPbrMetallicRoughness.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMesh.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFMeshPrimitive.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFNode.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFSampler.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFScene.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFSkin.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFTexture.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/GLTFTextureInfo.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/ExtensionList.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/KHR_materials_common/GLTFKHRMaterialsCommon_GLTFKHRMaterialsCommon.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/KHR_materials_pbrSpecularGlossiness/GLTFKHRMaterialsPbrSpecularGlossiness_GLTFKHRMaterialsPbrSpecularGlossiness.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRM.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMSpringBone.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMSpringBoneLogic.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMState.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/GLTFSceneKit/Sources/GLTFSceneKit/schema/extensions/VRM/GLTFVRM_VRMTypes.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneKit-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "Model3DView" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Model3DView",
+      "-incremental",
+      "-c",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Camera/CameraControls.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Camera/Cameras.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/EnvironmentValues.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Model3DView.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Transform3D.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Types.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Utils/Euler.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Utils/Math.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/Utils/ResourcesCache.swift",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/checkouts/Model3DView/Sources/Model3DView/View+Modifiers.swift",
+      "-I",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx11.0",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Model3DView-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "DisplayLink" : [
+
+    ],
+    "GLTFSceneKit" : [
+
+    ],
+    "Model3DView" : [
+      "DisplayLink",
+      "GLTFSceneKit"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  }
+}

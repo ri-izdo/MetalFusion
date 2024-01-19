@@ -1,0 +1,4 @@
+module Model3DView {
+    header "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/Model3DView.build/Model3DView-Swift.h"
+    requires objc
+}

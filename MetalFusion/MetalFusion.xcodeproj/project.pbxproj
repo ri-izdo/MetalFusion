@@ -1,0 +1,659 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F50E2F302B5A80560061B461 /* shoe.gltf in Resources */ = {isa = PBXBuildFile; fileRef = F50E2F2F2B5A80560061B461 /* shoe.gltf */; };
+		F50E2F322B5A81CD0061B461 /* Assets.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = F50E2F312B5A81CD0061B461 /* Assets.scnassets */; };
+		F517C8022B5A6A4100A29BCE /* MetalFusionApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F517C8012B5A6A4100A29BCE /* MetalFusionApp.swift */; };
+		F517C8042B5A6A4100A29BCE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F517C8032B5A6A4100A29BCE /* ContentView.swift */; };
+		F517C8062B5A6A4100A29BCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F517C8052B5A6A4100A29BCE /* Assets.xcassets */; };
+		F517C8092B5A6A4100A29BCE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F517C8082B5A6A4100A29BCE /* Preview Assets.xcassets */; };
+		F517C8132B5A6A4100A29BCE /* MetalFusionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F517C8122B5A6A4100A29BCE /* MetalFusionTests.swift */; };
+		F517C81D2B5A6A4100A29BCE /* MetalFusionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F517C81C2B5A6A4100A29BCE /* MetalFusionUITests.swift */; };
+		F517C81F2B5A6A4100A29BCE /* MetalFusionUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F517C81E2B5A6A4100A29BCE /* MetalFusionUITestsLaunchTests.swift */; };
+		F517C83E2B5A6C6B00A29BCE /* colors in Resources */ = {isa = PBXBuildFile; fileRef = F517C83D2B5A6C6B00A29BCE /* colors */; };
+		F517C8432B5A6E9400A29BCE /* Model3DView in Frameworks */ = {isa = PBXBuildFile; productRef = F517C8422B5A6E9400A29BCE /* Model3DView */; };
+		F51CB4772B5A6EDC0070F5A1 /* Model3DView in Frameworks */ = {isa = PBXBuildFile; productRef = F51CB4762B5A6EDC0070F5A1 /* Model3DView */; };
+		F51CB4792B5A6F020070F5A1 /* Model3DView in Frameworks */ = {isa = PBXBuildFile; productRef = F51CB4782B5A6F020070F5A1 /* Model3DView */; };
+		F5BF8EA12B5A776B0004B513 /* Model3DView in Frameworks */ = {isa = PBXBuildFile; productRef = F5BF8EA02B5A776B0004B513 /* Model3DView */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F517C80F2B5A6A4100A29BCE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F517C7F62B5A6A4100A29BCE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F517C7FD2B5A6A4100A29BCE;
+			remoteInfo = MetalFusion;
+		};
+		F517C8192B5A6A4100A29BCE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F517C7F62B5A6A4100A29BCE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F517C7FD2B5A6A4100A29BCE;
+			remoteInfo = MetalFusion;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F50E2F2F2B5A80560061B461 /* shoe.gltf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = shoe.gltf; sourceTree = "<group>"; };
+		F50E2F312B5A81CD0061B461 /* Assets.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = Assets.scnassets; sourceTree = "<group>"; };
+		F517C7FE2B5A6A4100A29BCE /* MetalFusion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MetalFusion.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F517C8012B5A6A4100A29BCE /* MetalFusionApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetalFusionApp.swift; sourceTree = "<group>"; };
+		F517C8032B5A6A4100A29BCE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		F517C8052B5A6A4100A29BCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F517C8082B5A6A4100A29BCE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F517C80E2B5A6A4100A29BCE /* MetalFusionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MetalFusionTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F517C8122B5A6A4100A29BCE /* MetalFusionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetalFusionTests.swift; sourceTree = "<group>"; };
+		F517C8182B5A6A4100A29BCE /* MetalFusionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MetalFusionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F517C81C2B5A6A4100A29BCE /* MetalFusionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetalFusionUITests.swift; sourceTree = "<group>"; };
+		F517C81E2B5A6A4100A29BCE /* MetalFusionUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MetalFusionUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F517C83D2B5A6C6B00A29BCE /* colors */ = {isa = PBXFileReference; lastKnownFileType = folder; path = colors; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F517C7FB2B5A6A4100A29BCE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F51CB4792B5A6F020070F5A1 /* Model3DView in Frameworks */,
+				F51CB4772B5A6EDC0070F5A1 /* Model3DView in Frameworks */,
+				F5BF8EA12B5A776B0004B513 /* Model3DView in Frameworks */,
+				F517C8432B5A6E9400A29BCE /* Model3DView in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F517C80B2B5A6A4100A29BCE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F517C8152B5A6A4100A29BCE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F517C7F52B5A6A4100A29BCE = {
+			isa = PBXGroup;
+			children = (
+				F517C8002B5A6A4100A29BCE /* MetalFusion */,
+				F517C8112B5A6A4100A29BCE /* MetalFusionTests */,
+				F517C81B2B5A6A4100A29BCE /* MetalFusionUITests */,
+				F517C7FF2B5A6A4100A29BCE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F517C7FF2B5A6A4100A29BCE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F517C7FE2B5A6A4100A29BCE /* MetalFusion.app */,
+				F517C80E2B5A6A4100A29BCE /* MetalFusionTests.xctest */,
+				F517C8182B5A6A4100A29BCE /* MetalFusionUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F517C8002B5A6A4100A29BCE /* MetalFusion */ = {
+			isa = PBXGroup;
+			children = (
+				F50E2F312B5A81CD0061B461 /* Assets.scnassets */,
+				F517C83D2B5A6C6B00A29BCE /* colors */,
+				F517C8012B5A6A4100A29BCE /* MetalFusionApp.swift */,
+				F517C8032B5A6A4100A29BCE /* ContentView.swift */,
+				F50E2F2F2B5A80560061B461 /* shoe.gltf */,
+				F517C8052B5A6A4100A29BCE /* Assets.xcassets */,
+				F517C8072B5A6A4100A29BCE /* Preview Content */,
+			);
+			path = MetalFusion;
+			sourceTree = "<group>";
+		};
+		F517C8072B5A6A4100A29BCE /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				F517C8082B5A6A4100A29BCE /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F517C8112B5A6A4100A29BCE /* MetalFusionTests */ = {
+			isa = PBXGroup;
+			children = (
+				F517C8122B5A6A4100A29BCE /* MetalFusionTests.swift */,
+			);
+			path = MetalFusionTests;
+			sourceTree = "<group>";
+		};
+		F517C81B2B5A6A4100A29BCE /* MetalFusionUITests */ = {
+			isa = PBXGroup;
+			children = (
+				F517C81C2B5A6A4100A29BCE /* MetalFusionUITests.swift */,
+				F517C81E2B5A6A4100A29BCE /* MetalFusionUITestsLaunchTests.swift */,
+			);
+			path = MetalFusionUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F517C7FD2B5A6A4100A29BCE /* MetalFusion */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F517C8222B5A6A4100A29BCE /* Build configuration list for PBXNativeTarget "MetalFusion" */;
+			buildPhases = (
+				F517C7FA2B5A6A4100A29BCE /* Sources */,
+				F517C7FB2B5A6A4100A29BCE /* Frameworks */,
+				F517C7FC2B5A6A4100A29BCE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MetalFusion;
+			packageProductDependencies = (
+				F517C8422B5A6E9400A29BCE /* Model3DView */,
+				F51CB4762B5A6EDC0070F5A1 /* Model3DView */,
+				F51CB4782B5A6F020070F5A1 /* Model3DView */,
+				F5BF8EA02B5A776B0004B513 /* Model3DView */,
+			);
+			productName = MetalFusion;
+			productReference = F517C7FE2B5A6A4100A29BCE /* MetalFusion.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F517C80D2B5A6A4100A29BCE /* MetalFusionTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F517C8252B5A6A4100A29BCE /* Build configuration list for PBXNativeTarget "MetalFusionTests" */;
+			buildPhases = (
+				F517C80A2B5A6A4100A29BCE /* Sources */,
+				F517C80B2B5A6A4100A29BCE /* Frameworks */,
+				F517C80C2B5A6A4100A29BCE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F517C8102B5A6A4100A29BCE /* PBXTargetDependency */,
+			);
+			name = MetalFusionTests;
+			productName = MetalFusionTests;
+			productReference = F517C80E2B5A6A4100A29BCE /* MetalFusionTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		F517C8172B5A6A4100A29BCE /* MetalFusionUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F517C8282B5A6A4100A29BCE /* Build configuration list for PBXNativeTarget "MetalFusionUITests" */;
+			buildPhases = (
+				F517C8142B5A6A4100A29BCE /* Sources */,
+				F517C8152B5A6A4100A29BCE /* Frameworks */,
+				F517C8162B5A6A4100A29BCE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F517C81A2B5A6A4100A29BCE /* PBXTargetDependency */,
+			);
+			name = MetalFusionUITests;
+			productName = MetalFusionUITests;
+			productReference = F517C8182B5A6A4100A29BCE /* MetalFusionUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F517C7F62B5A6A4100A29BCE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					F517C7FD2B5A6A4100A29BCE = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					F517C80D2B5A6A4100A29BCE = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = F517C7FD2B5A6A4100A29BCE;
+					};
+					F517C8172B5A6A4100A29BCE = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = F517C7FD2B5A6A4100A29BCE;
+					};
+				};
+			};
+			buildConfigurationList = F517C7F92B5A6A4100A29BCE /* Build configuration list for PBXProject "MetalFusion" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F517C7F52B5A6A4100A29BCE;
+			packageReferences = (
+				F5BF8E9F2B5A776B0004B513 /* XCRemoteSwiftPackageReference "Model3DView" */,
+			);
+			productRefGroup = F517C7FF2B5A6A4100A29BCE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F517C7FD2B5A6A4100A29BCE /* MetalFusion */,
+				F517C80D2B5A6A4100A29BCE /* MetalFusionTests */,
+				F517C8172B5A6A4100A29BCE /* MetalFusionUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F517C7FC2B5A6A4100A29BCE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F517C8092B5A6A4100A29BCE /* Preview Assets.xcassets in Resources */,
+				F50E2F322B5A81CD0061B461 /* Assets.scnassets in Resources */,
+				F517C8062B5A6A4100A29BCE /* Assets.xcassets in Resources */,
+				F517C83E2B5A6C6B00A29BCE /* colors in Resources */,
+				F50E2F302B5A80560061B461 /* shoe.gltf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F517C80C2B5A6A4100A29BCE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F517C8162B5A6A4100A29BCE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F517C7FA2B5A6A4100A29BCE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F517C8042B5A6A4100A29BCE /* ContentView.swift in Sources */,
+				F517C8022B5A6A4100A29BCE /* MetalFusionApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F517C80A2B5A6A4100A29BCE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F517C8132B5A6A4100A29BCE /* MetalFusionTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F517C8142B5A6A4100A29BCE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F517C81F2B5A6A4100A29BCE /* MetalFusionUITestsLaunchTests.swift in Sources */,
+				F517C81D2B5A6A4100A29BCE /* MetalFusionUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F517C8102B5A6A4100A29BCE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F517C7FD2B5A6A4100A29BCE /* MetalFusion */;
+			targetProxy = F517C80F2B5A6A4100A29BCE /* PBXContainerItemProxy */;
+		};
+		F517C81A2B5A6A4100A29BCE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F517C7FD2B5A6A4100A29BCE /* MetalFusion */;
+			targetProxy = F517C8192B5A6A4100A29BCE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		F517C8202B5A6A4100A29BCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F517C8212B5A6A4100A29BCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F517C8232B5A6A4100A29BCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MetalFusion/Preview Content\"";
+				DEVELOPMENT_TEAM = QLRJ3XYQ4N;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rlizardo.MetalFusion;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F517C8242B5A6A4100A29BCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"MetalFusion/Preview Content\"";
+				DEVELOPMENT_TEAM = QLRJ3XYQ4N;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.rlizardo.MetalFusion;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		F517C8262B5A6A4100A29BCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QLRJ3XYQ4N;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ri-izdo.MetalFusionTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MetalFusion.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MetalFusion";
+			};
+			name = Debug;
+		};
+		F517C8272B5A6A4100A29BCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QLRJ3XYQ4N;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ri-izdo.MetalFusionTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MetalFusion.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/MetalFusion";
+			};
+			name = Release;
+		};
+		F517C8292B5A6A4100A29BCE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QLRJ3XYQ4N;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ri-izdo.MetalFusionUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MetalFusion;
+			};
+			name = Debug;
+		};
+		F517C82A2B5A6A4100A29BCE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QLRJ3XYQ4N;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ri-izdo.MetalFusionUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = MetalFusion;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F517C7F92B5A6A4100A29BCE /* Build configuration list for PBXProject "MetalFusion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F517C8202B5A6A4100A29BCE /* Debug */,
+				F517C8212B5A6A4100A29BCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F517C8222B5A6A4100A29BCE /* Build configuration list for PBXNativeTarget "MetalFusion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F517C8232B5A6A4100A29BCE /* Debug */,
+				F517C8242B5A6A4100A29BCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F517C8252B5A6A4100A29BCE /* Build configuration list for PBXNativeTarget "MetalFusionTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F517C8262B5A6A4100A29BCE /* Debug */,
+				F517C8272B5A6A4100A29BCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F517C8282B5A6A4100A29BCE /* Build configuration list for PBXNativeTarget "MetalFusionUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F517C8292B5A6A4100A29BCE /* Debug */,
+				F517C82A2B5A6A4100A29BCE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		F5BF8E9F2B5A776B0004B513 /* XCRemoteSwiftPackageReference "Model3DView" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/frzi/Model3DView.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		F517C8422B5A6E9400A29BCE /* Model3DView */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = Model3DView;
+		};
+		F51CB4762B5A6EDC0070F5A1 /* Model3DView */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = Model3DView;
+		};
+		F51CB4782B5A6F020070F5A1 /* Model3DView */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = Model3DView;
+		};
+		F5BF8EA02B5A776B0004B513 /* Model3DView */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = F5BF8E9F2B5A776B0004B513 /* XCRemoteSwiftPackageReference "Model3DView" */;
+			productName = Model3DView;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = F517C7F62B5A6A4100A29BCE /* Project object */;
+}

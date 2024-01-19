@@ -1,0 +1,4 @@
+module GLTFSceneKit {
+    header "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/GLTFSceneKit.build/GLTFSceneKit-Swift.h"
+    requires objc
+}

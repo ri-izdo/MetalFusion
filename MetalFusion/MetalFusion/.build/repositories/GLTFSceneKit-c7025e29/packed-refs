@@ -1,0 +1,33 @@
+# pack-refs with: peeled fully-peeled sorted 
+cfa032e8239f1bd9829ad297b3e835f94444e219 refs/heads/master
+c676f7b34bfa03b03c561369ceeee4487adead34 refs/heads/objc-support
+1bfa277083c5bf789c1855cc3b9cb75fa4b25c37 refs/heads/support-swift-package
+e624d00446a1d83faf106de2eaf5d0d7e483144b refs/heads/vrm
+fa22c0fd88e97449af08f5b3898b02bda3303471 refs/heads/vrm-blend-shape
+a9587ec5c6515ee7d036533fdd909815a9a718ef refs/pull/1/head
+8bd50d2887c4e0ccc50b9e576768c1800ae15c50 refs/tags/0.3.0
+9e9c7ba667f4c6351eeb70408d4ec1df5b83f856 refs/tags/0.4.0
+a9587ec5c6515ee7d036533fdd909815a9a718ef refs/tags/0.4.1
+136c3853c33a1d727fdf19a7597ddd521f33c7a9 refs/tags/v0.0.1
+^d3f245fc7714f91127932c3e9968e869e22680c3
+d416acd6c49ac0e5ea6e0f02a0a9f82ca71f58d9 refs/tags/v0.0.2
+519965fb121e8aa106c73c346c9b1c5cd7efe570 refs/tags/v0.1.0
+9a906ee1a1d06ba2e51ee180a4311e6fa27f9448 refs/tags/v0.1.1
+3a6bfdb24e850261bf591c61b8303a479f36aa6e refs/tags/v0.1.2
+9ab7c99ba0f1540e97ea35da45981cb84cf5bb3b refs/tags/v0.1.3
+50c09ac33d09b15d158f3dd8b36fe07eb5baf615 refs/tags/v0.2.0
+589cac03b34a7f5103d14b3741bfcd8add417593 refs/tags/v0.3.1
+ebfcd4782732ef9836054fe6ab1bff4ca9bf76aa refs/tags/vrm-v0.0.1
+76ce7ef1b1601c4f3a2c499df56a1e140f305586 refs/tags/vrm-v0.0.10
+5d70ca22d1afb782cba697aabc8a305bbc9080ae refs/tags/vrm-v0.0.11
+26797ffb9807ae666ecaecc4a05f0de69bb0c4f2 refs/tags/vrm-v0.0.12
+f5fb58ae726803b23c2d3d9cc8c6d2473f0eeebd refs/tags/vrm-v0.0.13
+b4b1345543a1ecc11adf1deb20bc9d0c52d85438 refs/tags/vrm-v0.0.14
+1f55cb9ba0265128995c92dc0efc1fdedde84d8c refs/tags/vrm-v0.0.2
+5244a2028a02ac16221401775b2030d036b490d8 refs/tags/vrm-v0.0.3
+a38bb89254a297157132b75740ecb313c7d3e991 refs/tags/vrm-v0.0.4
+fa8d746d8ad331c231a02d843d0ac6c7fb93c62f refs/tags/vrm-v0.0.5
+85f1cd0fd324eca16c09f5021978a551d1076b5a refs/tags/vrm-v0.0.6
+e624d00446a1d83faf106de2eaf5d0d7e483144b refs/tags/vrm-v0.0.7
+d702c3f010807440d143551950bc1da3910d9fcc refs/tags/vrm-v0.0.8
+9b78ef9dde78cf0adc16782f81a19855edb1a3c7 refs/tags/vrm-v0.0.9

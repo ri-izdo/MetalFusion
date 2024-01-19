@@ -1,0 +1,4 @@
+module DisplayLink {
+    header "/Users/rodericklizardo/dev/ri-izdo/MetalFusion/MetalFusion/MetalFusion/.build/arm64-apple-macosx/debug/DisplayLink.build/DisplayLink-Swift.h"
+    requires objc
+}
